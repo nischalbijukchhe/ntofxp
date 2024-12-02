@@ -1,7 +1,7 @@
 id: openRedirect
 info:
   name: openRedirect
-  author: coffinxp
+  author: hnterx
   severity: medium
   description: detect all uri/url get based openredirect
 requests:
