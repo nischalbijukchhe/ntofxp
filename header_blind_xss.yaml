@@ -4,6 +4,7 @@ info:
   name: Delivering blind xss payloads via headers
   author: hnterx
   severity: high
+  tags: xss,blind
 
 requests:
   - method: GET
