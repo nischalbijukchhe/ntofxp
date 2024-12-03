@@ -5,7 +5,7 @@ info:
   author: hnterx
   severity: medium
   description: This template will spray blind XSS payloads into URLs. Use xss.report to check if the payload fired.
-  tags: xss,blind,generic
+  tags: xss,blind,generic,dast
 
 requests:
   - method: GET

@@ -5,6 +5,7 @@ info:
   author: MR.iambatman
   severity: high
   description: oob sqli
+  tags: sqli,generic,dast
 
 requests:
 

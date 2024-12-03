@@ -6,7 +6,7 @@ info:
     description: Potential Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF) attacks, Cache Poisoning and Open URL Redirection.
     reference:
       - https://{{Hostname}}.{{https://hunterxbxss.bxss.in}}
-    tags: reflection,header,cookies
+    tags: reflection,header,cookies,xss,dast
     metadata:
       max-request: 2
 requests:

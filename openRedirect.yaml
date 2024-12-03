@@ -4,6 +4,7 @@ info:
   author: hnterx
   severity: medium
   description: detect all uri/url get based openredirect
+  tags: or,generic,dast
 requests:
   - method: GET
     path:

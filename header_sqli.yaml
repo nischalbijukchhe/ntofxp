@@ -4,6 +4,7 @@ info:
   name: Request header based sqli
   author: panch0r3d (Thanks https://github.com/MR-pentestGuy for all of the Regexes)
   severity: high
+  tags: sqli,generic,dast
 
 requests:
   - method: GET
